@@ -2,8 +2,8 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 # jazznotes.io
-- project: jazznotes.io
-  role: Founder & Primary Developer
+- project: 물반고기반 커뮤니티 제작
+  role: 물반고기반 내 커뮤니티 구현, 밑 운영
   duration: 2012 &mdash; Present
   # url: "#"
   description: Jazz Notes is an open source node/ember app that helps you keep track of your music compositions and new ideas.
