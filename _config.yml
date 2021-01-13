@@ -10,7 +10,7 @@ sass:
 
 # Resume settings
 resume_avatar:                  "true"
-resume_name:                    "최상수"
+resume_name:                    "반갑습니다. 최상수라고 합니다 :)"
 resume_title:                   "고맙습니다. 저도 고마운 사람이 되도록 노력하겠습니다."
 
 # used for the contact button in _layouts/resume.html
