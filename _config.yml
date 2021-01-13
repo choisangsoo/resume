@@ -11,7 +11,7 @@ sass:
 # Resume settings
 resume_avatar:                  "true"
 resume_name:                    "최상수"
-resume_title:                   "VP of Global Communications"
+resume_title:                   "고맙습니다. 저도 고마운 사람이 되도록 노력하겠습니다."
 
 # used for the contact button in _layouts/resume.html
 resume_contact_email:           "css1109@gmail.com"
@@ -23,7 +23,7 @@ resume_contact_address:         ""
 resume_header_contact_info:     ""
 display_header_contact_info:    "false"
 
-resume_header_intro: "<p>This is the executive summary. You should write a few brief, concise, and meaningful sentences about yourself from a professional context, and your immediate career goals. Make the length appropriate for your needs, but keep it brief and concise</p>"
+resume_header_intro: "<p>안녕하세요. 물반고기반 플랫폼개발팀에서 일하고 있습니다. 웹/앱 서비스 백엔드 / 프론트 개발을 주로하고 있고 스타트업 개발자로서의 다양한 경험을 하고 있습니다. Node.js, PHP, MySQL, AWS, Git, Vue.js 등을 사용하여 서비스를 설계, 개발, 운영하고 있으며 좀 더 나은 서비스를 위해 언제나 고민하고 있습니다.<br /><br />소통을 중요시하며 함께 일하는걸 즐거워 합니다. 능동적이고 적극적인 커뮤니케이션으로 문제 해결을 위해 힘씁니다. 이러한 점을 바탕으로 더 좋은 개발자로서 성장하기 위해 경험하고, 노력하고 있습니다.</p>"
 
 # use "yes" to display the email contact button,
 # "no" to display an "I'm not looking for work" message,
@@ -45,14 +45,14 @@ resume_section_associations:    true
 # Resume social links
 # uncomment the options you wish to display, and add your own URL
 resume_social_links:
-  resume_github_url:            "https://github.com/jglovier/resume-template"
-  resume_twitter_url:           "http://twitter.com/jglovier"
-  resume_dribbble_url:          "https://dribbble.com/jag"
+  # resume_github_url:            "https://github.com/jglovier/resume-template"
+  # resume_twitter_url:           "http://twitter.com/jglovier"
+  # resume_dribbble_url:          "https://dribbble.com/jag"
   # resume_facebook_url:          "insert Facebook URL here"
-  resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
+  # resume_linkedin_url:          "https://www.linkedin.com/in/joelglovier"
   # resume_instagram_url:         "insert your Instagram URL here"
-  resume_website_url:           "http://joelglovier.com"
-  resume_medium_url:            "https://medium.com/@jglovier"
+  # resume_website_url:           "http://joelglovier.com"
+  # resume_medium_url:            "https://medium.com/@jglovier"
 resume_print_social_links:      true
 
 # Design settings
