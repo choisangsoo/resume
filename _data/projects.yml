@@ -2,73 +2,76 @@
 # uncomment the urls if you wish to display them, and add your own URL
 
 - project: 물반고기반  네이버페이 결제 서비스 추가
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2020. 11
   # url: "#"
   description: 네이버페이 결제 모듈 추가
 
 - project: 물반고기반 포인트 구매
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2020. 04
   # url: "#"
   description: 물반고기반 내 무료 발급 하던 포인트를 유료 구매하여 예약상품에 사용할 수 있도록 나이스페이 결제 모듈 추가하여 서비스 구현
 
 - project: 물반고기반 쇼핑몰
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2020. 02
   # url: "#"
   description: 영카트5 기반으로 제작하되 물반고기반 회원 정보를 동기화하여 제작
 
 - project: 물반고기반 온라인 승선명부
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2019. 10 ~ 2019. 11 & 2020.09
   # url: "#"
   description: 수기로 작성되던 승선명부를 업체 방문전 미리 작성할 수 있도록 출항 전일 작성폼 URL 제공, 미작성자는 현장에서 QR 코드, 키오스크 등을 통해 작성할 수 있도록 서비스 제공하였고 해양수산부, 해경과 연계하여 입/출항신고 서비스 구현
 
 - project: 물반고기반 쿠폰 서비스 개편
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2019. 09 ~ 2019. 10
   # url: "#"
   description: 쿠폰 서비스 개편을 통해 요일별, 업체별, 혜택별 쿠폰 발급을 할 수 있도록 신규 조건을 결제 단계에서 적용할 수 있도록 구현
 
 - project: 물반고기반 업주관리자 홈페이지 제작
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2019. 04 ~ 2019. 06
   # url: "#"
   description: 업주홈페이지 내 예약, 회원관리 서비스 제작
 
 - project: 물반고기반 업주관리자 APP 제작, 업주관리자 개편
-  # role: 커뮤니티 개발, 검색 서비스 개발, 회원 관리 개발
+  role: 아이스앤브이(물반고기반)
   duration: 2018. 11 ~ 2019. 01
   # url: "#"
   description: 업주관리자 APP에 사용될 API 제작 및 업주홈페이지 리뉴얼
 
 - project: 물반고기반 PC버전 제작
-  # role:
+  role: 아이스앤브이(물반고기반)
   duration: 2018. 03 ~ 2018. 08
   # url: "#"
   description: APP 서비스를 기반으로 PC버전에 커뮤니티 , 검색 서비스 , 회원 관리 시스템 구현
 
 - project: 물반고기반 검색 서비스 개편
+  role: 아이스앤브이(물반고기반)
   duration: 2018. 02
   # url: "#"
   description: 검색 UI 개편, 광고업체 우선 노출 구현 , FULLTEXT 검색 처리
 
 
 - project: 물반고기반 커뮤니티 개편
+  role: 아이스앤브이(물반고기반)
   duration: 2017. 11 ~ 2018. 01
   # url: "#"
   description: 기존 html 형태의 게시글 구조를 Json 형태로 변환하여 관리할 수 있도록 서비스 개선, 동영상 서비스 구현
 
 
 - project: 물반고기반 낚시카페 업주 모집 페이지 제작
+  role: 아이스앤브이(물반고기반)
   duration: 2017. 10
   # url: "#"
   description: 낚시카페 모집 페이지를 통해 수집된 정보를 사내 DB에 맞게 마이그레이션 구현
 
 
 - project: 물반고기반 게시글 외부연동
-  #role:
+  role: 아이스앤브이(물반고기반)
   duration: 2017. 09
   # url: "#"
   description: 업주회원이 물반고기반 내에서 게시글 작성을 하게되면 Curl을 통해 연계되어 있는 외부 낚시 커뮤니티 사이트에 동시 등록 되도록 구현
@@ -76,30 +79,31 @@
 #########
 
 - project: 시슬리 프로모션 사이트 제작 및 운영
-  # role: Curl을 통한 외부 연동 처리
+  role: 이너스커뮤니티
   duration: 2013 ~ 2017. 06
   # url: "#"
   description: 시슬리 프로모션 사이트 제작 및 운영
 
 - project: 오뚜기 프로모션 사이트 제작 및 운영
-  # role: Curl을 통한 외부 연동 처리
+  role: 이너스커뮤니티
   duration: 2013 ~ 2017. 06
   # url: "#"
   description: 오뚜기 광고 프로모션 사이트 제작 및 운영
 
 - project: 피셔프라이스 홈페이지 운영 및 프로모션
-  # role: Curl을 통한 외부 연동 처리
+  role: 이너스커뮤니티
   duration: 2013 ~ 2014
   # url: "#"
   description: 사이트 리뉴얼 제작, 운영 및 프로모션 제작
 
 - project: 엘리트 웹사이트 리뉴얼 및 프로모션
+  role: 이너스커뮤니티
   duration: 2012 ~ 2013
   # url: "#"
   description: 사이트 리뉴얼 제작, 운영 및 프로모션 제작
 
 - project: 아줌마닷컴 운영
-  # role: Curl을 통한 외부 연동 처리
+  role: 이너스커뮤니티
   duration: 2011. 05 ~ 2017. 06
   # url: "#"
   description: 이너스커뮤니티 자체 서비스 운영 및 유지보수
@@ -108,19 +112,19 @@
 #########
 
 - project: 중소기업진흥공단 지원 대상 업체 홈페이지 제작
-  # role: Curl을 통한 외부 연동 처리
+  role: 월드비즈넷
   duration: 2009. 07 ~ 2010. 01
   # url: "#"
   description: 홈페이지 제작 및 유지보수
 
 - project: 인천 남동구청 웹표준화 작업
-  # role: Curl을 통한 외부 연동 처리
+  role: 월드비즈넷
   duration: 2009. 07 ~ 2010. 01
   # url: "#"
   description: 수도권 매립지 웹접근성, 표준화 사업
 
 - project: 수도권매립지관리공사 웹표준화 작업
-  # role: Curl을 통한 외부 연동 처리
+  role: 월드비즈넷
   duration: 2009. 07 ~ 2010. 01
   # url: "#"
   description: 수도권 매립지 웹접근성, 표준화 사업
